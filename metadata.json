@@ -1,0 +1,6 @@
+{
+  "name": "Kimera",
+  "description": "Chair-side digital mirror consultation tool for men's hairstyle previews at Kimera Salon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
